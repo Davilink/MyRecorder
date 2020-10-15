@@ -1,0 +1,2 @@
+MyRecorder/deepspeech/*models.pbmm filter=lfs diff=lfs merge=lfs -text
+MyRecorder/deepspeech/*models.scorer filter=lfs diff=lfs merge=lfs -text
